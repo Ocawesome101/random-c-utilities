@@ -1,0 +1,9 @@
+#define FTYPE_REG 97
+#define FTYPE_BLK 93
+#define FTYPE_CHR 95
+#define FTYPE_DIR 94
+#define FTYPE_FIFO 36
+#define FTYPE_LNK 32
+#define FTYPE_SOCK 36
+#define FTYPE_EXEC 92
+#define FTYPE_UNKNOWN 97
